@@ -4,6 +4,19 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=kenshinita13&color=blueviolet)
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenshinita13&show_icons=true&theme=tokyonight" alt="kenshinita13's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenshinita13&theme=tokyonight" alt="kenshinita13's GitHub Streak" />
+</p>
+
+
 ### 📌 About Me
 - A cybersecurity professional with a passion for offensive and defensive security testing, enterprise infrastructure protection, and vulnerability assessment frameworks.
 
