@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=kenshinita13&color=blueviolet)
-
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
